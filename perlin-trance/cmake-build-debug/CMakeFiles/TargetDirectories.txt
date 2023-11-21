@@ -1,0 +1,3 @@
+/Users/egorpishiy/Documents/Projects/perlin-trance/cmake-build-debug/CMakeFiles/perlin_trance.dir
+/Users/egorpishiy/Documents/Projects/perlin-trance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/egorpishiy/Documents/Projects/perlin-trance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
